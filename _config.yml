@@ -1,7 +1,7 @@
 name: marinarodil
 favicon: null
 layout_spectrum: 0.305616443278268
-typography_spectrum: 0.03524230350740254
+typography_spectrum: 1
 title: Diseño gráfico editorial e interactivo
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.32685801316984
-  lightness: 0.9937008996494114
-  saturation: 0.4670226606540382
-  rhythmicContrast: 0.4726665047928691
+  brandStrength: 0.375
+  lightness: 0.625
+  saturation: 0.625
+  rhythmicContrast: 0.5
 purpose: []
